@@ -22,10 +22,10 @@ A **Streamlit-based stock prediction app** that lets users forecast stock prices
 
 ## 📸 Demo
 
-![App Screenshot](assets/screenshot1.png)  
+![App Screenshot](streamlitapp.png)  
 *Streamlit app interface where you select a ticker and forecast horizon.*
 
-![Prediction Chart](assets/prediction_chart.png)  
+![Prediction Chart](streamlitprediction.png)  
 *Example forecast output showing predicted stock price trends.*
 
 ---
