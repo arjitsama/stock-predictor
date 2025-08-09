@@ -1,5 +1,12 @@
 # 📈 Stock Predictor Web App
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-00BFFF?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+---
+
 A **Streamlit-based stock prediction app** that lets users forecast stock prices 1–5 years into the future using historical data from Yahoo Finance and the **Facebook Prophet** forecasting model.
 
 ---
