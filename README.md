@@ -22,11 +22,15 @@ A **Streamlit-based stock prediction app** that lets users forecast stock prices
 
 ## 📸 Demo
 
-![App Screenshot](images/streamlit_app.png)  
-*Streamlit app interface where you select a ticker (TSLA) to plot the data.*
+<p align="center">
+  <img src="images/streamlit_app.png" width="600"><br>
+  <em>Streamlit app interface where you select a ticker (TSLA) to plot the data.</em>
+</p>
 
-![Prediction Chart](images/prediction_chart.png)  
-*Example forecast output showing predicted stock price trends.*
+<p align="center">
+  <img src="images/prediction_chart.png" width="600"><br>
+  <em>Example forecast output showing predicted stock price trends.</em>
+</p>
 
 ---
 
