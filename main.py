@@ -127,7 +127,7 @@ else:
             y=future_predictions['Predicted Close'],
             mode='lines',
             name='Predicted (Future)',
-            line=dict(color='lightskyblue')
+            line=dict(color='pink')
         ))
 
         # plot info
