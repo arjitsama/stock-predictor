@@ -20,6 +20,25 @@ A **Streamlit-based stock prediction app** that lets users forecast stock prices
 
 ---
 
+## 📸 Demo
+
+![App Screenshot](assets/screenshot1.png)  
+*Streamlit app interface where you select a ticker and forecast horizon.*
+
+![Prediction Chart](assets/prediction_chart.png)  
+*Example forecast output showing predicted stock price trends.*
+
+---
+
+## 🚀 How It Works
+
+1. Fetch historical stock price data from Yahoo Finance using `yfinance`.
+2. Preprocess and clean the data for modeling.
+3. Use Facebook Prophet to forecast future prices based on historical trends.
+4. Display interactive charts and forecast results in Streamlit.
+
+---
+
 ## 🧠 Tech Stack
 - **Python**
 - **Streamlit** – Interactive web app framework
