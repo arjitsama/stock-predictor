@@ -33,11 +33,11 @@ cd stock-predictor
 ```
 
 ### 2️⃣ Install dependencies 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the app
-```
+```bash
 streamlit run app.py
 ```
