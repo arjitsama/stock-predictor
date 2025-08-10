@@ -9,6 +9,8 @@
 
 A **Streamlit-based stock prediction app** that lets users forecast stock prices 1–5 years into the future using historical data from Yahoo Finance and the **Facebook Prophet** forecasting model.
 
+**🚀 Live Demo:** [Try the app here](https://stock-predictor-g6qwwzh9p5ivwutktgmjoq.streamlit.app/)
+
 ---
 
 ## 🔍 Features
