@@ -22,20 +22,6 @@ A **Streamlit-based stock prediction app** that lets users forecast stock prices
 
 ---
 
-## 📸 Demo
-
-<p align="center">
-  <img src="images/streamlit_app.png" width="450"><br>
-  <em>Streamlit app interface where you select a ticker (TSLA) to plot the data.</em>
-</p>
-
-<p align="center">
-  <img src="images/prediction_chart.png" width="400"><br>
-  <em>Example forecast output showing predicted stock price trends.</em>
-</p>
-
----
-
 ## 🚀 How It Works
 
 1. Fetch historical stock price data from Yahoo Finance using `yfinance`.
@@ -51,6 +37,20 @@ A **Streamlit-based stock prediction app** that lets users forecast stock prices
 - **yFinance** – Yahoo Finance data
 - **Prophet** – Time series forecasting
 - **Plotly** – Interactive data visualization
+
+---
+
+## 📸 Demo
+
+<p align="center">
+  <img src="images/streamlit_app.png" width="450"><br>
+  <em>Streamlit app interface where you select a ticker (TSLA) to plot the data.</em>
+</p>
+
+<p align="center">
+  <img src="images/prediction_chart.png" width="400"><br>
+  <em>Example forecast output showing predicted stock price trends.</em>
+</p>
 
 ---
 
